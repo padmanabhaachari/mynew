@@ -1,26 +1,6 @@
 <h1> Hello, Welcome to Anantha Technologies !!! </h1>
 <h1> Hello, Welcome to Anantha Technologies !!! </h1>
-Skip to content
- 
-Search or jump to…
 
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@padmanabhaachari 
-0
-0 0 padmanabhaachari/iwaq
- Code  Issues 0  Pull requests 1  Projects 0  Wiki  Security  Insights  Settings
-iwaq/src/main/webapp/index.html
- root this the first commit
-cbc2be2 on Apr 15, 2018
-We found potential security vulnerabilities in your dependencies.
-Only the owner of this repository can see this message.
-
-660 lines (515 sloc)  22 KB
-    
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
